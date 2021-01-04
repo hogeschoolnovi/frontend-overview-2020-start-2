@@ -29,7 +29,9 @@ _**Leerlijn Frontend**_
     * `[HTML & CSS] Les 3 - CSS Grid` ([video](https://web.microsoftstream.com/video/5726f875-ec70-47e3-b121-5fc71fee7645) en [slides](https://teams.microsoft.com/l/file/785F7B45-35D7-4541-B091-4A450749B058?tenantId=4243de4c-3701-4a5d-b67a-388c5c9557a2&fileType=pdf&objectUrl=https%3A%2F%2Fnoviuniversity.sharepoint.com%2Fsites%2FFrontendStartmoment2%2FClass%20Materials%2FHTML%20%26%20CSS%2F%5BHTML%26CSS%5D%20Les%203%20-%20CSS%20Grid.pdf&baseUrl=https%3A%2F%2Fnoviuniversity.sharepoint.com%2Fsites%2FFrontendStartmoment2&serviceName=teams&threadId=19:58f01948cf7e491198cb8f843f32cd8a@thread.tacv2&groupId=38b6b0f7-1dfc-4ab1-b355-61b10d619896))
 * **Lesopdrachten**: Oefenen met CSS Grid. Bekijk hier het [base project](https://github.com/hogeschoolnovi/frontend-css-grid) (op GitHub) en hier de [uitwerkingen](https://noviuniversity.sharepoint.com/sites/FrontendStartmoment2/Class%20Materials/HTML%20&%20CSS/frontend-css-grid_uitwerkingen.zip). 
 
-> Extra oefenmateriaal Flexbox en grid: bekijk hier het [base project](https://github.com/hogeschoolnovi/frontend-html-css-extra-exercise-base) en hier de [uitwerkingen](https://noviuniversity.sharepoint.com/sites/FrontendStartmoment2/Class%20Materials/HTML%20&%20CSS/frontend-html-css-extra-exercises-uitwerkingen.zip).
+
+> **Extra oefenmateriaal Flexbox en CSS Grid**: bekijk hier het [base project](https://github.com/hogeschoolnovi/frontend-html-css-extra-exercise-base) en hier de [uitwerkingen](https://noviuniversity.sharepoint.com/sites/FrontendStartmoment2/Class%20Materials/HTML%20&%20CSS/frontend-html-css-extra-exercises-uitwerkingen.zip).
+
 
 ### Les 4 en 5
 * **Voorbereiding**: lees hoofdstukken 10 en 12 op EdHub
@@ -58,7 +60,9 @@ _**Leerlijn Frontend**_
 * **Bekijken**: Beschikbaar op 21 januari 2021
 * **Lesopdrachten**: _nog niet beschikbaar_
 
-> Extra oefenmateriaal functies: bekijk hier het [base project](https://github.com/hogeschoolnovi/frontend-javascript-functions/blob/master/functions.js) (_master_ branch) en uitwerkingen (_uitwerkingen_ branch)
+
+> **Extra oefenmateriaal functies**: bekijk hier het [base project](https://github.com/hogeschoolnovi/frontend-javascript-functions/blob/master/functions.js) (_master_ branch) en uitwerkingen (_uitwerkingen_ branch)
+
 
 ### Les 3
 * **Voorbereiding**: _nog niet beschikbaar_
