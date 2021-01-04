@@ -38,9 +38,7 @@ _**Leerlijn Frontend**_
 * **Voorbereiding opdrachten**:
     * Maak mini-opdracht 10.1 op EdHub (baseproject)
     * Maak opdracht 10.5 op EdHub (baseproject). De uitwerkingen vind je in het base project voor de [transitie-opdracht van les 4](https://github.com/hogeschoolnovi/frontend-grid-transition-base), omdat we het hamburger menu daar gaan animeren.
-* **Bekijken**:
-    * `[HTML & CSS] Les 4 - Psuedo elementen en transities`
-    * `[HTML & CSS] Les 5 - Functioneel ontwerpen`
+* **Bekijken**: Beschikbaar op 7 januari 2021
 * **Lesopdrachten**: Oefenen met pseudo-elementen en transities (les 4) en het uitdenken van een applicatie (les 5).
 
 ## JavaScript
