@@ -64,12 +64,9 @@ _**Leerlijn Frontend**_
    * `[JAVASCRIPT] Les 2 - Scope, functies en objecten` ([video](https://web.microsoftstream.com/video/9633b130-e0e4-46c9-b2ef-e77253954c6b)).
 * **Lesopdrachten**: n.v.t.
 
-
->
 > **Extra oefenmateriaal functies**: bekijk hier het [base project](https://github.com/hogeschoolnovi/frontend-javascript-functions/blob/master/functions.js) (_master_ branch) en uitwerkingen (_uitwerkingen_ branch)
->
+
 > **Extra oefenmateriaal arrays en string- en math objecten**: bekijk hier het [base project](https://github.com/hogeschoolnovi/frontend-javascript-objects-string-array-date) (_master_ branch) en uitwerkingen (_uitwerkingen_ branch)
->
 
 ### Les 3 - Packages en testen
 * **Voorbereiding**:
@@ -88,7 +85,6 @@ _**Leerlijn Frontend**_
 * **Bekijken**: Beschikbaar op 4 februari 2021
 * **Lesopdrachten**: _nog niet beschikbaar_
 
-
 ### Les 6 en 7 - API's en asynchroniteit
 * **Voorbereiding**:
    * lees hoofdstuk 7 en 8 op EdHub
@@ -104,3 +100,14 @@ _**Leerlijn Frontend**_
    * _nog niet beschikbaar_
 * **Bekijken**: Beschikbaar op 18 februari 2021
 * **Lesopdrachten**: _nog niet beschikbaar_
+
+## React
+
+### Les 1 - Componenten en state
+* **Voorbereiding**: lees hoofdstukken 1 t/m 2 en 3.1 (alleen de eerste paragraaf!) op EdHub
+* **Voorbereiding opdrachten**:
+    * Volg de stappen in hoofdstuk 1.5 en oefen met het aanmaken van een eigen project
+    * Volg de tutorial in hoofdstuk 2
+* **Bekijken**: Beschikbaar op 4 maart 2021
+* **Lesopdrachten**: _nog niet beschikbaar_
+
