@@ -29,9 +29,9 @@ _**Leerlijn Frontend**_
     * `[HTML & CSS] Les 3 - CSS Grid` ([video](https://web.microsoftstream.com/video/5726f875-ec70-47e3-b121-5fc71fee7645) en [slides](https://teams.microsoft.com/l/file/785F7B45-35D7-4541-B091-4A450749B058?tenantId=4243de4c-3701-4a5d-b67a-388c5c9557a2&fileType=pdf&objectUrl=https%3A%2F%2Fnoviuniversity.sharepoint.com%2Fsites%2FFrontendStartmoment2%2FClass%20Materials%2FHTML%20%26%20CSS%2F%5BHTML%26CSS%5D%20Les%203%20-%20CSS%20Grid.pdf&baseUrl=https%3A%2F%2Fnoviuniversity.sharepoint.com%2Fsites%2FFrontendStartmoment2&serviceName=teams&threadId=19:58f01948cf7e491198cb8f843f32cd8a@thread.tacv2&groupId=38b6b0f7-1dfc-4ab1-b355-61b10d619896))
 * **Lesopdrachten**: Oefenen met CSS Grid. Bekijk hier het [base project](https://github.com/hogeschoolnovi/frontend-css-grid) (op GitHub) en hier de [uitwerkingen](https://noviuniversity.sharepoint.com/sites/FrontendStartmoment2/Class%20Materials/HTML%20&%20CSS/frontend-css-grid_uitwerkingen.zip). 
 
-
+>
 > **Extra oefenmateriaal Flexbox en CSS Grid**: bekijk hier het [base project](https://github.com/hogeschoolnovi/frontend-html-css-extra-exercise-base) en hier de [uitwerkingen](https://noviuniversity.sharepoint.com/sites/FrontendStartmoment2/Class%20Materials/HTML%20&%20CSS/frontend-html-css-extra-exercises-uitwerkingen.zip).
-
+>
 
 ### Les 4 en 5 - Transities en Functionel Ontwerpen
 * **Voorbereiding**: lees hoofdstukken 10 en 12 op EdHub
@@ -39,8 +39,8 @@ _**Leerlijn Frontend**_
     * Maak mini-opdracht 10.1 op EdHub (baseproject)
     * Maak opdracht 10.5 op EdHub (baseproject). De uitwerkingen vind je in het base project voor de [transitie-opdracht van les 4](https://github.com/hogeschoolnovi/frontend-grid-transition-base), omdat we het hamburger menu daar gaan animeren.
 * **Bekijken**:
-   * `[HTML & CSS] Les 4 - CSS Transities` ([video](https://web.microsoftstream.com/video/8ec1ee4a-de9f-4434-a88e-2259084fa383) en [slides](https://noviuniversity.sharepoint.com/sites/FrontendStartmoment2/Class%20Materials/HTML%20&%20CSS/%5BHTML&CSS%5D%20Les%204%20-%20Transities.pdf)
-   * `[HTML & CSS] Les 5 - Functioneel ontwerpen` ([video](https://web.microsoftstream.com/video/9029e8f1-0a1d-4cb9-a5ed-272280d4a7de) en [slides](https://noviuniversity.sharepoint.com/sites/FrontendStartmoment2/Class%20Materials/HTML%20&%20CSS/%5BHTML&CSS%5D%20Les%205%20-%20Functioneel%20ontwerpen.pdf)
+   * `[HTML & CSS] Les 4 - CSS Transities` ([video](https://web.microsoftstream.com/video/8ec1ee4a-de9f-4434-a88e-2259084fa383) en [slides](https://noviuniversity.sharepoint.com/sites/FrontendStartmoment2/Class%20Materials/HTML%20&%20CSS/%5BHTML&CSS%5D%20Les%204%20-%20Transities.pdf))
+   * `[HTML & CSS] Les 5 - Functioneel ontwerpen` ([video](https://web.microsoftstream.com/video/9029e8f1-0a1d-4cb9-a5ed-272280d4a7de) en [slides](https://noviuniversity.sharepoint.com/sites/FrontendStartmoment2/Class%20Materials/HTML%20&%20CSS/%5BHTML&CSS%5D%20Les%205%20-%20Functioneel%20ontwerpen.pdf))
 * **Lesopdrachten**: 
    * Oefenen met pseudo-elementen en transities, bekijk hier het [base project](https://github.com/hogeschoolnovi/frontend-grid-transition-base) en hier de [uitwerkingen](https://noviuniversity.sharepoint.com/sites/FrontendStartmoment2/Class%20Materials/HTML%20&%20CSS/frontend-css-transition_uitwerkingen.zip).
    * Het uitdenken van een applicatie met input van de klas
@@ -52,8 +52,8 @@ _**Leerlijn Frontend**_
 * **Voorbereiding opdrachten**:
     * Maak opdracht 2.9 op EdHub. Op GitHub vind je het [base project](https://github.com/hogeschoolnovi/frontend-javascript-exersizes-edhub-1) (_master_ branch) en ook de uitwerkingen (_uitwerkingen_ branch) 
 * **Bekijken**: 
-   * `[JAVASCRIPT] Les 1 - The basics` ([video](https://web.microsoftstream.com/video/507231d5-60b7-4a35-bf08-02b3cd1d91ea)
-* **Lesopdrachten**: Oefenen met meerdere waardes aanspreken in een array doormiddel van loops, bekijk hier het [base project](https://github.com/hogeschoolnovi/frontend-javascript-array-loops)
+   * `[JAVASCRIPT] Les 1 - The basics` ([video](https://web.microsoftstream.com/video/507231d5-60b7-4a35-bf08-02b3cd1d91ea))
+* **Lesopdrachten**: Oefenen met meerdere waardes aanspreken in een array doormiddel van loops, bekijk hier het [base project](https://github.com/hogeschoolnovi/frontend-javascript-array-loops).
 
 ### Les 2 - Scope, functies en objecten
 * **Voorbereiding**: lees hoofdstukken 3 t/m 4 op EdHub
@@ -61,14 +61,15 @@ _**Leerlijn Frontend**_
     * Maak opdracht 3.6 op EdHub. Op GitHub vind je het [base project](https://github.com/hogeschoolnovi/frontend-javascript-edhub-functions) (_master_ branch) en ook de uitwerkingen (_uitwerkingen_ branch)
     * Maak opdracht 4.6 op EdHub. Op GitHub vind je het [base project](https://github.com/hogeschoolnovi/frontend-javascript-edhub-objects) (_master_ branch) en ook de uitwerkingen (_uitwerkingen_ branch)
 * **Bekijken**:
-   * `[JAVASCRIPT] Les 2 - Scope, functies en objecten` ([video](https://web.microsoftstream.com/video/9633b130-e0e4-46c9-b2ef-e77253954c6b)
+   * `[JAVASCRIPT] Les 2 - Scope, functies en objecten` ([video](https://web.microsoftstream.com/video/9633b130-e0e4-46c9-b2ef-e77253954c6b)).
 * **Lesopdrachten**: n.v.t.
 
 
+>
 > **Extra oefenmateriaal functies**: bekijk hier het [base project](https://github.com/hogeschoolnovi/frontend-javascript-functions/blob/master/functions.js) (_master_ branch) en uitwerkingen (_uitwerkingen_ branch)
-
+>
 > **Extra oefenmateriaal arrays en string- en math objecten**: bekijk hier het [base project](https://github.com/hogeschoolnovi/frontend-javascript-objects-string-array-date) (_master_ branch) en uitwerkingen (_uitwerkingen_ branch)
-
+>
 
 ### Les 3 - Packages en testen
 * **Voorbereiding**:
@@ -100,6 +101,6 @@ _**Leerlijn Frontend**_
 * **Voorbereiding**:
    * lees hoofdstuk 9 op EdHub
 * **Voorbereiding opdrachten**:
-   * Maak opdracht 7.4 op EdHub. Op GitHub vind je het [base project](https://github.com/hogeschoolnovi/javascript-edhub-form-validation) (_master_ branch) en ook de [uitwerkingen](https://github.com/hogeschoolnovi/javascript-edhub-form-validation/tree/uitwerkingen) (_uitwerkingen_ branch)
+   * _nog niet beschikbaar_
 * **Bekijken**: Beschikbaar op 18 februari 2021
 * **Lesopdrachten**: _nog niet beschikbaar_
