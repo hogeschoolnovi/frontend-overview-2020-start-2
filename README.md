@@ -83,7 +83,7 @@ _**Leerlijn Frontend**_
 * **Voorbereiding opdrachten**:
    * Maak opdracht 6.8 op EdHub. Op GitHub vind je het [base project](https://github.com/hogeschoolnovi/frontend-javascript-edhub-array-methods) (_master_ branch) en ook de uitwerkingen (_uitwerkingen_ branch) 
 * **Bekijken**: Beschikbaar op 4 februari 2021
-* **Lesopdrachten**: _nog niet beschikbaar_
+* **Lesopdrachten**: Tech It Easy opdracht. Op GitHub vind je het [base project](https://github.com/hogeschoolnovi/frontend-javascript-tech-it-easy)
 
 ### Les 6 en 7 - API's en asynchroniteit
 * **Voorbereiding**:
@@ -91,15 +91,23 @@ _**Leerlijn Frontend**_
 * **Voorbereiding opdrachten**:
    * Maak opdracht 7.4 op EdHub. Op GitHub vind je het [base project](https://github.com/hogeschoolnovi/javascript-edhub-form-validation) (_master_ branch) en ook de [uitwerkingen](https://github.com/hogeschoolnovi/javascript-edhub-form-validation/tree/uitwerkingen) (_uitwerkingen_ branch)
 * **Bekijken**: Beschikbaar op 11 februari 2021
-* **Lesopdrachten**: _nog niet beschikbaar_
+* **Lesopdrachten**: Country Information App - part 1. Op GitHub vind je het [base project](https://github.com/hogeschoolnovi/frontend-country-information)
 
-### Les 8 - Object Oriented JavaScript
+### Les 8 - Switch statements en desctructuring
+* **Voorbereiding**: n.v.t.
+* **Voorbereiding opdrachten**:
+   * _nog niet beschikbaar_
+* **Bekijken**: Beschikbaar op 18 februari 2021
+* **Lesopdrachten**: Country Information App - part 2. Op GitHub vind je het [base project](https://github.com/hogeschoolnovi/frontend-javascript-country-information-part2)
+
+### Les 9 - Object Oriented JavaScript
 * **Voorbereiding**:
    * lees hoofdstuk 9 op EdHub
 * **Voorbereiding opdrachten**:
    * _nog niet beschikbaar_
-* **Bekijken**: Beschikbaar op 18 februari 2021
+* **Bekijken**: Beschikbaar op 4 maart 2021
 * **Lesopdrachten**: _nog niet beschikbaar_
+
 
 ## React
 
