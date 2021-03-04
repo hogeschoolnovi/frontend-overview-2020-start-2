@@ -119,11 +119,44 @@ _**Leerlijn Frontend**_
 
 ## React
 
-### Les 1 - Componenten en state
-* **Voorbereiding**: lees hoofdstukken 1 t/m 2 en 3.1 (alleen de eerste paragraaf!) op EdHub
+### Les 1 - Componenten en properties
+* **Voorbereiding**: lees hoofdstukken 1 t/m 2 op EdHub
 * **Voorbereiding opdrachten**:
     * Volg de stappen in hoofdstuk 1.5 en oefen met het aanmaken van een eigen project
     * Volg de tutorial in hoofdstuk 2
-* **Bekijken**: Beschikbaar op 4 maart 2021
+* **Bekijken**: Beschikbaar op 11 maart 2021
 * **Lesopdrachten**: _nog niet beschikbaar_
+
+### Les 2 en 3 - State en formulieren
+* **Voorbereiding**: lees hoofdstukken 3 en 4 op EdHub
+* **Voorbereiding opdrachten**:
+    * Maak opdracht 3.6 op Edhub
+    * Maak opdracht 3.8 op Edhub
+* **Bekijken**: Beschikbaar op 18 maart 2021
+* **Lesopdrachten**: _nog niet beschikbaar_
+
+### Les 4 - Routing
+* **Voorbereiding**: lees hoofdstuk 5 op EdHub en volg de tutorial
+* **Voorbereiding opdrachten**: n.v.t.
+* **Bekijken**: Beschikbaar op 25 maart 2021
+* **Lesopdrachten**: _nog niet beschikbaar_
+
+### Les 5 en 6 - API's en React Life Cycles
+* **Voorbereiding**: lees hoofdstuk 6 en 7 op EdHub
+* **Voorbereiding opdrachten**: n.v.t.
+* **Bekijken**: Beschikbaar op 1 april 2021
+* **Lesopdrachten**: _nog niet beschikbaar_
+
+### Les 7 en 8 - Context en inloggen
+* **Voorbereiding**: lees hoofdstuk 8 en 9 op EdHub
+* **Voorbereiding opdrachten**: n.v.t.
+* **Bekijken**: Beschikbaar op 8 april 2021
+* **Lesopdrachten**: _nog niet beschikbaar_
+
+### Les 9 en 10 - Authenticatie
+* **Voorbereiding**: _nog niet beschikbaar_
+* **Voorbereiding opdrachten**: n.v.t.
+* **Bekijken**: Beschikbaar op 15 april 2021
+* **Lesopdrachten**: _nog niet beschikbaar_
+
 
