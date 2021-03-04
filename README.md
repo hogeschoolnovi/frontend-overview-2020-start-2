@@ -74,7 +74,7 @@ _**Leerlijn Frontend**_
    * Bekijk [deze](https://web.microsoftstream.com/video/38dfe15a-ee2b-46dd-a49d-4ebbf4517f73) video over testen schrijven met Jest
 * **Voorbereiding opdrachten**: 
    * Maak een programmeeroefening voor een ander! Uitleg in [deze](https://web.microsoftstream.com/video/98945f37-06d7-4d56-9c35-7e859629836a) video.
-* **Bekijken**: Beschikbaar op 28 januari 2021
+* **Bekijken**: * `[JAVASCRIPT] Les 3 - Jest en Packages` ([video](https://web.microsoftstream.com/video/8456ee99-17c4-415d-a392-24d0d124c9c2)).
 * **Lesopdrachten**: _nog niet beschikbaar_
 
 ### Les 4 en 5 - Array methoden en de DOM
@@ -82,31 +82,39 @@ _**Leerlijn Frontend**_
    * lees hoofdstuk 6 op EdHub
 * **Voorbereiding opdrachten**:
    * Maak opdracht 6.8 op EdHub. Op GitHub vind je het [base project](https://github.com/hogeschoolnovi/frontend-javascript-edhub-array-methods) (_master_ branch) en ook de uitwerkingen (_uitwerkingen_ branch) 
-* **Bekijken**: Beschikbaar op 4 februari 2021
+* **Bekijken**:
+   * `[JAVASCRIPT] Les 4 - Array methods en de DOM` ([video](https://web.microsoftstream.com/video/7820219c-997d-4310-96c6-c64356f0a283)).
+   * `[JAVASCRIPT] Les 5 - Tech It Easy opdracht` ([video](https://web.microsoftstream.com/video/cc102896-ba42-43ee-8f84-317db08f919c)).
 * **Lesopdrachten**: Tech It Easy opdracht. Op GitHub vind je het [base project](https://github.com/hogeschoolnovi/frontend-javascript-tech-it-easy)
 
 ### Les 6 en 7 - API's en asynchroniteit
 * **Voorbereiding**:
-   * lees hoofdstuk 7 en 8 op EdHub
+   * Bekijk deze [video](https://web.microsoftstream.com/video/5367d2d6-5bdf-4548-8d00-391f2d9dfdd0) over asynchroniteit, axios en hoe je data ophaalt
+   * Lees hoofdstuk 7 en 8 op EdHub
 * **Voorbereiding opdrachten**:
    * Maak opdracht 7.4 op EdHub. Op GitHub vind je het [base project](https://github.com/hogeschoolnovi/javascript-edhub-form-validation) (_master_ branch) en ook de [uitwerkingen](https://github.com/hogeschoolnovi/javascript-edhub-form-validation/tree/uitwerkingen) (_uitwerkingen_ branch)
-* **Bekijken**: Beschikbaar op 11 februari 2021
+* **Bekijken**:
+   *  `[JAVASCRIPT] Les 6 - Async await en axios` ([video](https://web.microsoftstream.com/video/48edb5c2-264e-4fb2-82d8-354a15d0c15c)).
+   *  `[JAVASCRIPT] Les 7 - Country Information part 1` ([video](https://web.microsoftstream.com/video/4cf5e433-6122-4e93-9443-82b88d99a2dc)).
 * **Lesopdrachten**: Country Information App - part 1. Op GitHub vind je het [base project](https://github.com/hogeschoolnovi/frontend-country-information)
 
-### Les 8 - Switch statements en desctructuring
-* **Voorbereiding**: n.v.t.
-* **Voorbereiding opdrachten**:
-   * _nog niet beschikbaar_
-* **Bekijken**: Beschikbaar op 18 februari 2021
-* **Lesopdrachten**: Country Information App - part 2. Op GitHub vind je het [base project](https://github.com/hogeschoolnovi/frontend-javascript-country-information-part2)
-
-### Les 9 - Object Oriented JavaScript
+### Les 8 - Object Oriented JavaScript
 * **Voorbereiding**:
-   * lees hoofdstuk 9 op EdHub
-* **Voorbereiding opdrachten**:
-   * _nog niet beschikbaar_
-* **Bekijken**: Beschikbaar op 4 maart 2021
+   * Bekijk deze [video](https://web.microsoftstream.com/video/24dbb402-181c-4bae-8a2f-93d81af0b7a7) over programmeren met classes
+   * Bekijk deze [video](https://web.microsoftstream.com/video/e3606b35-25c3-4ee1-b6bc-5d5f88ab96b4) over hoe je zelf een methode maakt
+   * Lees hoofdstuk 10 op EdHub
+* **Voorbereiding opdrachten**: n.v.t.
+* **Bekijken**:
+   * `[JAVASCRIPT] Les 8 - Methods en classes` ([video](https://web.microsoftstream.com/video/bde1ff48-5e9a-4c80-9128-97550a145f33)).
 * **Lesopdrachten**: _nog niet beschikbaar_
+
+### Les 9 - Switch statements en desctructuring
+* **Voorbereiding**:
+   * Lees hoofdstuk 9 op EdHub
+* **Voorbereiding opdrachten**:
+   * Maak opdracht 9.5 op EdHub. Op GitHub vind je het [base project](https://github.com/hogeschoolnovi/frontend-javascript-switch-destructuring/tree/master) (_master_ branch) en ook de [uitwerkingen](https://github.com/hogeschoolnovi/frontend-javascript-switch-destructuring/tree/uitwerkingen) (_uitwerkingen_ branch)
+* **Bekijken**: Beschikbaar op 4 maart 2021
+* **Lesopdrachten**: Country Information App - part 2. Op GitHub vind je het [base project](https://github.com/hogeschoolnovi/frontend-javascript-country-information-part2)
 
 
 ## React
